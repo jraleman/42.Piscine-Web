@@ -1,0 +1,86 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+body {
+  background-size: 100%;
+  background-image: url("https://wallpapertag.com/wallpaper/full/d/a/6/120447-blue-pattern-background-2560x1600-for-desktop.jpg");
+}
+td {
+  width: 5%;
+  height: auto;
+  padding: 3px;
+}
+p {
+  margin: 0;
+}
+table {
+  width: 90%;
+  margin: auto;
+  height: auto;
+}
+.symbol {
+  text-align: center;
+  font-size: 2vw;
+}
+.vertical-align {
+  vertical-align: bottom;
+  font-size: 1vw;
+}
+.atomic-weight {
+  text-align: right;
+  font-size: 1vw;
+}
+.spacing {
+  margin-top: 1%;
+}
+/* www.color-hex.com/color-palette/79292 */
+.purple {
+  background-color: #7760cc;
+  border: 4.2px solid #6b56b7;
+}
+.blue {
+  background-color: #60b5cc;
+  border: 4.2px solid #56a2b7;
+}
+.green {
+  background-color: #6bb76d;
+  border: 4.2px solid #60a462;
+}
+.yellow {
+  background-color: #f0ad00;
+  border: 4.2px solid #d89b00;
+}
+.gray {
+  background-color: #bebebe;
+  border: 4.2px solid #9e9e9e;
+}
+.pink {
+  background-color: #e66c7d;
+  border: 4.2px solid #cf6170;
+}
+.dark-blue {
+  background-color: #308097;
+  border: 4.2px solid #2b7387;
+}
+.orange {
+  background-color: #e88651;
+  border: 4.2px solid #d07848;
+}
+.white {
+  background-color: #fefefe;
+  border: 4.2px solid #dedede;
+}
+.red {
+  background-color: #cd1a39;
+  border: 4.2px solid #b81733;
+}
+.dark-green {
+  background-color: #406e5f;
+  border: 4.2px solid #396355;
+}
